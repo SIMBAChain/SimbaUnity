@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4DCA7D93-A991-D4C1-759B-A72736EDACD3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HighscoreTable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SimbaInfo.cs" Line="8" Column="100" />
+      <File FileName="Assets/Scripts/GetTransactions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PostandSign.cs" Line="22" Column="45" />
+      <File FileName="Assets/Scripts/HighscoreTable.cs" Line="86" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimbaUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="HighscoreTable.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="31e73db7-12ea-4a8e-bc7f-ad4cf26329c0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

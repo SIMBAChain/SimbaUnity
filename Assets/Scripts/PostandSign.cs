@@ -27,7 +27,7 @@ public class PostandSign : MonoBehaviour
 
     public static string SignSimbaTransaction(JObject json)
     {
-        if (double.Parse(WalletBalance.GetBalance(SimbaInfo.Wallet.GetAccount(0).Address)) < 1.0)
+        if (SimbaInfo.isCol && double.Parse(WalletBalance.GetBalance(SimbaInfo.Wallet.GetAccount(0).Address)) < 1.0)
 		{
             WalletBalance.RequestFunds(SimbaInfo.Wallet.GetAccount(0).Address, "1");
         }
